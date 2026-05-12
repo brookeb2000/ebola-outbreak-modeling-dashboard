@@ -1,0 +1,5 @@
+#  assume you are using requirements.txt to declare your dependencies
+
+streamlit
+pandas
+numpy
